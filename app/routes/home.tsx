@@ -11,7 +11,7 @@ export default function Home() {
       <div className="font-mono text-center">
         {/* ASCII Art Logo */}
         <pre
-          className="text-white text-xs sm:text-sm md:text-base leading-tight inline-block text-left"
+          className="text-white text-[9px] sm:text-[11px] md:text-sm leading-tight inline-block text-left"
           style={{ fontFamily: "'Courier New', Consolas, monospace", letterSpacing: 0 }}
         >
 {`/**
